@@ -46,8 +46,10 @@ View [live demo](http://blog.samsonis.me/douban/)
 
 
 == Screenshots ==
-* http://blog.samsonis.me/douban/
-* http://blog.samsonis.me/movies/
+
+http://blog.samsonis.me/douban/
+
+http://blog.samsonis.me/movies/
 
 
 == Changelog ==
